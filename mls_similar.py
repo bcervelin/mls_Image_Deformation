@@ -13,7 +13,7 @@ import cv2
 from scipy import interpolate as ip
 
 # deformation internal parameters
-alpha = 2.
+alpha = 2.1
 
 # read image name and its extension
 nome = input("Enter image name without it's extension: ")
